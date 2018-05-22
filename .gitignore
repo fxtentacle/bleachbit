@@ -21,3 +21,4 @@ windows/BleachBit*.exe
 *~
 *.bak
 *.swp
+/.idea/
