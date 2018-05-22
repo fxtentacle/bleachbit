@@ -22,3 +22,4 @@ windows/BleachBit*.exe
 *.bak
 *.swp
 /.idea/
+/cleaners/winapp2.ini
